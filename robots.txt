@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrbooshamer-sketch.github.io/-/sitemap.xml
